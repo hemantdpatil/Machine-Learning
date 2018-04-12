@@ -1,7 +1,0 @@
-# Machine-Learning
-Used K-nearest neighbour to predict the survival of the passengers on the famous Titanic. Used Python to facilitate the code.
-
-Python
-Machine Learning Algorithm
-Pandas
-Numpys
